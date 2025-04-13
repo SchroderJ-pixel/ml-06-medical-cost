@@ -28,7 +28,7 @@ This repository contains the Medical Cost Prediction project, where the objectiv
 
 ## 🔗 Links
 - [My GitHub Profile](https://github.com/SchroderJ-pixel)
-- [My Classification of Medical Cost Notebook](https://github.com/SchroderJ-pixel/ml-06-medical-cost/blob/main/regression-schroder.ipynb)
+- [My Regression Model of Medical Cost Notebook](https://github.com/SchroderJ-pixel/ml-06-medical-cost/blob/main/regression-schroder.ipynb)
 - [My Peer Review](https://github.com/SchroderJ-pixel/ml-06-medical-cost/blob/main/peer_review.md)
 
 ## 🟢 Setup Instructions
