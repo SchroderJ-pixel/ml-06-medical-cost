@@ -1,4 +1,4 @@
-# 🔍 Final Project: Regression Analysis Name: Gabriel Richards
+# 🔍 Final Project: Regression Analysis by Gabriel Richards
 ## 🧑‍💻 Reviewer: Justin Schroder
 ## 📅 Date: April 13, 2025
 ## ## 🔗 Links
